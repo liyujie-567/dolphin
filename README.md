@@ -7,6 +7,11 @@
 emmmm...
 > * datav 怎么说呢，用起来的却很方便，很灵活，只要能控制好整体的布局加上datav的酷炫效果，还是能做出来很有科技感的大屏效果；但是用着用着 emmmm.... 想去改变datav组件的属性的话，就有点难受了，看来看去 结果就是懵逼树上懵逼果，懵逼树下你和我，反正慢慢来把，共勉 共勉。
 
+look me!
+![tool-editor](https://github.com/liyujie-567/dolphin/blob/master/src/assets/img/1826F199-5F64-43BE-9188-835466F4EF4A_1_105_c.jpeg)
+
+------
+
 ![tool-editor](http://ww1.sinaimg.cn/large/9150e4e5gy1frctirhz4zj205i04d0sj.jpg)
 
 
